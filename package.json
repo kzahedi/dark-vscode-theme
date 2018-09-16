@@ -1,0 +1,22 @@
+{
+	"name": "Theme-TronDark",
+	"displayName": "TronDark Theme",
+	"description": "TronDark Theme ported from the TronLight TextMate Theme",
+	"version": "0.0.2",
+	"publisher": "gerane",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Tron Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/TronWinter-dark-color-theme.json"
+			}
+		]
+	}
+}
