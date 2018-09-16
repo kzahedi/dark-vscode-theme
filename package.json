@@ -1,9 +1,9 @@
 {
-	"name": "Theme-TronDark",
-	"displayName": "TronDark Theme",
-	"description": "TronDark Theme ported from the TronLight TextMate Theme",
+	"name": "darkblue",
+	"displayName": "Dark Blue Theme",
+	"description": "Dark Blue Theme inspired by TronLight and Winter is comming themes",
 	"version": "0.0.2",
-	"publisher": "gerane",
+	"publisher": "kzahedi",
 	"engines": {
 		"vscode": "^0.10.1"
 	},
@@ -13,9 +13,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Tron Dark",
+				"label": "Dark Blue",
 				"uiTheme": "vs-dark",
-				"path": "./themes/TronWinter-dark-color-theme.json"
+				"path": "./themes/Dark-blue.json"
 			}
 		]
 	}
